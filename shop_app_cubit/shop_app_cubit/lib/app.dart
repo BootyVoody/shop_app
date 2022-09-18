@@ -11,6 +11,6 @@ class App extends StatelessWidget {
           useMaterial3: true,
           primarySwatch: Colors.blue,
         ),
-        home: const HomeScreen(),
+        home: HomeScreen(),
       );
 }
